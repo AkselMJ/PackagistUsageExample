@@ -1,0 +1,5 @@
+{
+    "require": {
+        "akselmj/weatherapi-php-client": "^1.0"
+    }
+}
